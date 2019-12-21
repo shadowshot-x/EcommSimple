@@ -6,7 +6,7 @@ The Site Inlcudes 4 Products, that can be added to the Cart which shows dynamic 
 
 Redux has been used for State management and flow of data.
 
-###Screenshots
+## Screenshots
 ![alt text](Screenshots/ss1.png)
 ![alt text](Screenshots/ss2.png)
 ![alt text](Screenshots/ss3.png)
