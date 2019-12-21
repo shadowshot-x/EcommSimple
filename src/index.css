@@ -1,0 +1,53 @@
+html, body, #app, #app>div {
+  height: 100%
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("http://www.fotozzoom.com/blog/wp-content/uploads/2014/12/Night-Photograph_London-Eye-Giant-Ferris-Wheel.jpeg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.example_a {
+  color: #fff !important;
+  text-decoration: none;
+  background-color: #ed3330 !important;
+  padding: 20px !important;
+  border-radius: 5px !important;
+  display: inline-block !important;
+  border: none !important;
+  width: 500px;
+  height: 200px;
+  font-size: 3em !important;
+  font-weight: bold !important;
+  }
+.example_a:hover {
+    background-color: #434343 !important;
+    letter-spacing: 1px !important;
+    box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
+    }
+.button_b {
+    color: #fff !important;
+    text-decoration: none;
+    background-color: #ed3330 !important;
+    padding: 20px !important;
+    border-radius: 5px !important;
+    display: inline-block !important;
+    border: none !important;
+    width: 200px;
+    height: 200px;
+    font-size: 1em !important;
+    font-weight: bold !important;
+    opacity:0.9;
+}
+.button_b:hover {
+  background-color: #434343 !important;
+  letter-spacing: 1px !important;
+  box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.4s ease 0s;
+  opacity:1;
+  }
