@@ -20,7 +20,7 @@ class App extends Component {
       <div className="App">
         <Grid>
           <Grid style={{margin:"2vh"}} item xs={4}>
-            <img src="https://spacenos.com/images/spacenos-logo-white.png" style={{width:"20vw"}}/>
+            
           </Grid>
         </Grid>
         {this.props.state?<div>
